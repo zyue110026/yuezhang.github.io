@@ -1,4 +1,3 @@
-
 ---
 title: "Evaluating the Quality of Open Source Ansible Playbooks: An Executability Perspective"
 collection: publications
