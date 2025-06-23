@@ -6,6 +6,6 @@ permalink: /publication/2024-julia-security
 excerpt: 'This paper presents an empirical analysis of security issues in Julia codebases using static analysis techniques.'
 year: 2024
 venue: 'Empirical Software Engineering Journal (EMSE)'
-paperurl: 'https://link.springer.com/article/10.1007/s10664-024-10606-w'
+paperurl: '/files/publications/emse25.pdf'
 author: 'Yue Zhang, Justin Murphy, and Akond Rahman'
 ---
