@@ -16,7 +16,7 @@
   <p>
     <strong>{{ post.title }}</strong><br />
     {{ post.author }}<br />
-    <em>{{ post.venue }}</em>{% if post.paperurl %} [<a href="{{ post.paperurl }}">Pre-Print</a>]{% endif %}
+    <em>{{ post.venue }}</em>{% if post.paperurl %} [<a href="{{ post.paperurl  | relative_url }}">Pre-Print</a>]{% endif %}
   </p>
 </div>
 
