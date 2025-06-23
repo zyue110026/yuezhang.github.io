@@ -6,6 +6,6 @@ permalink: /publication/2024-ansible-executability
 excerpt: 'This paper evaluates the executability and quality of Ansible playbooks in open-source repositories.'
 year: 2024
 venue: 'SEA4DQ 2024 (co-located with FSE)'
-paperurl: 'https://dl.acm.org/doi/abs/10.1145/3663530.3665019'
+paperurl: '/files/publications/se4dq24.pdf'
 author: 'Pemsith Mendis, Wilson Reeves, Muhammad Ali Babar, Yue Zhang, and Akond Rahman. (2024). '
 ---
