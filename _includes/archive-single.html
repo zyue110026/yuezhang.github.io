@@ -16,7 +16,7 @@
   <p>
     <strong>{{ post.title }}</strong><br />
     {{ post.author }}<br />
-    <em>{{ post.venue }}</em>{% if post.paperurl %} [<a href="{{ post.paperurl  | prepend: base_path }}">Pre-Print</a>]{% endif %}
+    <em>{{ post.venue }}</em>{% if post.paperurl %} [<a href="{{ post.paperurl | prepend: "/files/publications/"   | prepend: base_path }}">Pre-Print</a>]{% endif %}
   </p>
 </div>
 
